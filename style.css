@@ -1,0 +1,17 @@
+body{
+    margin-top: 70px;
+    background: #222;
+    color: #fff;
+}
+h5{
+    margin: 30px 30px 5px 30px;
+}
+#gramsOutput {
+    margin: 0px 0px 30px 30px;
+}
+#kgOutput {
+    margin: 0px 0px 30px 30px;
+}
+#ozOutput {
+    margin: 0px 0px 30px 30px;
+}
